@@ -1,0 +1,6 @@
+c:\users\олег\documents\visual studio 2013\Projects\nostromo_mother_interface\nostromo_mother_interface\bin\Debug\nostromo_mother_interface.exe.config
+c:\users\олег\documents\visual studio 2013\Projects\nostromo_mother_interface\nostromo_mother_interface\bin\Debug\nostromo_mother_interface.exe
+c:\users\олег\documents\visual studio 2013\Projects\nostromo_mother_interface\nostromo_mother_interface\bin\Debug\nostromo_mother_interface.pdb
+c:\users\олег\documents\visual studio 2013\Projects\nostromo_mother_interface\nostromo_mother_interface\obj\Debug\nostromo_mother_interface.csprojResolveAssemblyReference.cache
+c:\users\олег\documents\visual studio 2013\Projects\nostromo_mother_interface\nostromo_mother_interface\obj\Debug\nostromo_mother_interface.exe
+c:\users\олег\documents\visual studio 2013\Projects\nostromo_mother_interface\nostromo_mother_interface\obj\Debug\nostromo_mother_interface.pdb
